@@ -3,8 +3,8 @@ import { OTPublisher, OTSubscriber, createSession } from 'opentok-react';
 import { Grid } from 'semantic-ui-react';
 import { RouteChildrenProps } from 'react-router';
 
-// const BASE_URL = "https://mysterious-peak-77536.herokuapp.com"
-const BASE_URL = " https://e8148f1f.ngrok.io";
+const BASE_URL = "https://mysterious-peak-77536.herokuapp.com"
+// const BASE_URL = " https://e8148f1f.ngrok.io";
 interface Props {
   
 }
